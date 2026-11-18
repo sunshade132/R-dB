@@ -1,0 +1,6 @@
+{
+  "name": "R&dB",
+  "description": "연도별·국가별 R&B 음악 사운드와 서사의 변천사를 데이터로 분석하는 팀 R&dB의 대학교 기말 프로젝트 웹 아카이브",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
